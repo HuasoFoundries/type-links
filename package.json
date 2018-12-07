@@ -14,6 +14,8 @@
     "documentation",
     "documentation.js",
     "parameter",
+    "params",
+    "jsdoc",
     "types"
   ],
   "author": "amenadiel@gmail.com",
