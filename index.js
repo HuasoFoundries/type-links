@@ -27,6 +27,4 @@ typefolders.forEach(foldername => {
 	);
 });
 
-console.log(paramLinks);
-
 module.exports = paramLinks;
